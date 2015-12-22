@@ -1,5 +1,9 @@
+html {
+	width: 100%;
+}
 body{
-
+width: 100%;
+color: #4C5051;
 }
 
 /* Typography */
@@ -54,4 +58,9 @@ textarea {
 .ba-container{
 	padding-left: 20px;
 	padding-right: 20px;
+	max-width: 1200px;
+	padding-bottom: 20px;
+}
+.ba-width-1-6 {
+	width: 16.6666667%;
 }
